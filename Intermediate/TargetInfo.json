@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PvZLabb",
+			"Path": "C:\\Users\\PC\\Documents\\PvZLabb\\Source\\PvZLabb.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PvZLabbEditor",
+			"Path": "C:\\Users\\PC\\Documents\\PvZLabb\\Source\\PvZLabbEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

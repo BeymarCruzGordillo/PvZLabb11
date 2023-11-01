@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PvZLabb.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8E6ADD8A-79BB-41F5-A73A-B06C42C16A11}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PvZLabb.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PvZLabbEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{9E9F42AD-978A-4AF4-96F4-3B8486BB3740}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PvZLabb">
+      <UniqueIdentifier>{684B85DD-7E64-44FC-B776-2BEC271AB36D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PvZLabb\FacadePrincipal.cpp">
+      <Filter>Source\PvZLabb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZLabb\FacadePrincipal.h">
+      <Filter>Source\PvZLabb</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PvZLabb\PvZLabb.Build.cs">
+      <Filter>Source\PvZLabb</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PvZLabb\PvZLabb.cpp">
+      <Filter>Source\PvZLabb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZLabb\PvZLabb.h">
+      <Filter>Source\PvZLabb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZLabb\PvZLabbGameMode.cpp">
+      <Filter>Source\PvZLabb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZLabb\PvZLabbGameMode.h">
+      <Filter>Source\PvZLabb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZLabb\PvZLabbPawn.cpp">
+      <Filter>Source\PvZLabb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZLabb\PvZLabbPawn.h">
+      <Filter>Source\PvZLabb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZLabb\PvZLabbProjectile.cpp">
+      <Filter>Source\PvZLabb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZLabb\PvZLabbProjectile.h">
+      <Filter>Source\PvZLabb</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
